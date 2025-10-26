@@ -18,7 +18,7 @@
 
 🧰 Tech Stack
 
-Platform: n8n.io
+Platform: n8n.io 
 
 Automation: No-code/low-code workflow builder
 
